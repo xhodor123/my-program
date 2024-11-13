@@ -1,3 +1,4 @@
 Registracia pouzivatela funkcionalita
 ved som zmenil veci
 registracia admin pouzivatela
+new feature
